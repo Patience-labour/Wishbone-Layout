@@ -1,6 +1,6 @@
 # Wishbone Layout - Architectural Studio Landing Page
 
-A clean, modern landing page for the architectural studio "Wishbone". This educational project focuses on semantic HTML5 and modern CSS3 techniques to create a professional, responsive web layout
+A clean, modern landing page for the architectural studio "Wishbone". This educational project focuses on semantic HTML5 and modern CSS3 techniques to create a professional, responsive web layout.
 
 ## 📋 Project Overview
 
