@@ -47,8 +47,8 @@ Educational front-end development project demonstrating:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Patience-labour/calculator.git
-   cd Portfolio-Layout
+   git clone https://github.com/Patience-labour/Wishbone-Layout.git
+   cd Wishbone-Layout
    ```
 2. **Open index.html directly in your browser**
 3. **Access at http://localhost:8000**
